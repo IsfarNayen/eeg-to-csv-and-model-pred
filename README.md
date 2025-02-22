@@ -38,4 +38,11 @@ This section presents three graphical analyses of EEG responses:
 
 Three of the machine learning algorithms have been utilized with ensemble learning those are Random Forest, Support Vector Machine and Gradient Boosting 100 n_estimators and 42 as random state has been used for both Random Forest and Gradient Boosting Likewise, SVM used linear kernel and random state of 42 The filtered data has been scaled within 0 1 by standard scaling for a better outcome.
 
-| Models | Alcoholic Group | Non-Alcoholic Group |
+<td> Accuracy table </td>
+
+|Models| | Alcoholic | Group | | | Non-Alcoholic | Group | |
+|-|-|-|-|-|-|-|-|-|
+| | Acc.       | Precision  | Recall     | F1-Score   | Acc.       | Precision  | Recall     | F1-Score   |
+| Random Forest   | 0.78       | 0.78       | 0.80       | 0.79       | 0.78       | 0.79       | 0.77       | 0.78       |
+| SVM            | 0.60       | 0.62       | 0.54       | 0.58       | 0.60       | 0.59       | 0.67       | 0.62       |
+| Gradient Boosting | 0.71    | 0.70       | 0.76       | 0.73       | 0.71       | 0.72       | 0.71       | 0.71       |
