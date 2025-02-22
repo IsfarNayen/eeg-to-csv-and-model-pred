@@ -9,9 +9,7 @@ EEG Data Processing and Model Prediction Notebook
 This notebook is essential for automating EEG data handling and predictive analysis.
 
 <br>
-
     <img src="asset/Poster.png" alt="EEG Poster" width="800">
-
 <br>
 
 Introduction
