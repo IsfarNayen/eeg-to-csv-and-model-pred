@@ -30,5 +30,5 @@ This section presents three graphical analyses of EEG responses:
 2. **No-Matching Condition:** The second graph highlights a cognitive task where participants identified whether objects were the same. The controlled group performed well, whereas the alcoholic group struggled in non-matching conditions.  
 3. **Matching Condition:** The third graph demonstrates that both groups performed similarly when the objects matched. 
 <br>
-    <img src = "asset/Performace_Test" alt="Performance Test" width="800">
+    <img src = "asset/Performance_Test.png" alt="Performance Test" width="800">
 <br>
