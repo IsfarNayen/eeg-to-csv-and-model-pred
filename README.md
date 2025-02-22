@@ -49,7 +49,6 @@ Three of the machine learning algorithms have been utilized with ensemble learni
 
 
 **Confusion Matrics for each ML algorithm:**
-
 <br>
     <img src = "asset/Confusion_matrics.png" alt="Confusion matrics" width="800">
 <br>
