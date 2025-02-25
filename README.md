@@ -47,8 +47,7 @@ Three of the machine learning algorithms have been utilized with ensemble learni
 | SVM            | 0.60       | 0.62       | 0.54       | 0.58       | 0.60       | 0.59       | 0.67       | 0.62       |
 | Gradient Boosting | 0.71    | 0.70       | 0.76       | 0.73       | 0.71       | 0.72       | 0.71       | 0.71       |
 
-
-
+<br> <br>
 
 **Confusion Matrics for each ML algorithm:**
 
