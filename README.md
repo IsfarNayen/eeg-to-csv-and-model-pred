@@ -52,3 +52,11 @@ Three of the machine learning algorithms have been utilized with ensemble learni
 <br>
     <img src = "asset/Confusion_matrics.png" alt="Confusion matrics" width="800">
 <br>
+
+The confusion matrices of three algorithms—Random Forest, SVM, and Gradient Boosting—are presented below:
+
+- Random Forest misclassified 889 controlled individuals and 821 alcoholic individuals out of a total of 3,299 people.
+- SVM had a higher misclassification rate, incorrectly identifying 1,056 controlled individuals and 1,568 alcoholic individuals within the same dataset.
+- Gradient Boosting performed similarly to Random Forest, with 889 misclassified controlled individuals and 810 misclassified alcoholic individuals among 3,299 people.
+
+This comparison highlights the varying performance of the models in distinguishing between the two groups.
