@@ -44,10 +44,10 @@ Three of the machine learning algorithms have been utilized with ensemble learni
 
 **Accuracy table:**
 
-|Models| | Alcoholic | Group | | | Non-Alcoholic | Group | |
-|-|-|-|-|-|-|-|-|-|
-| | Acc.       | Precision  | Recall     | F1-Score   | Acc.       | Precision  | Recall     | F1-Score   |
-| Random Forest   | 0.78       | 0.78       | 0.80       | 0.79       | 0.78       | 0.79       | 0.77       | 0.78       |
+|     Models     |            |  Alcoholic |   Group    |            |            | Non-Alcoholic | Group   |            |
+|      -         |      -     |      -     |      -     |      -     |      -     |      -     |     -      |    -       |
+| | Acc.         | Precision  | Recall     | F1-Score   | Acc.       | Precision  | Recall     | F1-Score   |
+| Random Forest  | 0.78       | 0.78       | 0.80       | 0.79       | 0.78       | 0.79       | 0.77       | 0.78       |
 | SVM            | 0.60       | 0.62       | 0.54       | 0.58       | 0.60       | 0.59       | 0.67       | 0.62       |
 | Gradient Boosting | 0.71    | 0.70       | 0.76       | 0.73       | 0.71       | 0.72       | 0.71       | 0.71       |
 <br>
